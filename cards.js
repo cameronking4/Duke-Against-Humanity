@@ -9,7 +9,7 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "Late night in Perkins, sometime I _.",
+  "text": "Late night in Perkins, I forget about everything except _.",
   "pick": 1
   },
   {
@@ -17,11 +17,15 @@ module.exports = {
   "pick": 2
   },
   {
-  "text": "What's that smell?",
+  "text": "Why does Craven always smell funny?",
+  "pick": 1
+  },
+        {
+  "text": "Why did I live in 300 Swift?",
   "pick": 1
   },
   {
-  "text": "The workers at Marketplace love me. They slide me _ at closing time.",
+  "text": "The workers at Marketplace love me. They slide me some _ at closing time.",
   "pick": 1
   },
   {
@@ -53,7 +57,7 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "What's that sound?",
+  "text": "What's that sound coming from downstairs Marketplace?",
   "pick": 1
   },
   {
@@ -89,7 +93,7 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "I single-handedly broke the Community Standard by _.",
+  "text": "How did I break the Community Standard this time?",
   "pick": 1
   },
   {
@@ -105,11 +109,11 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "I love third floor Perkins. I have no _.",
+  "text": "I love third floor Perkins. There's no _.",
   "pick": 1
   },
   {
-  "text": "_ and I became a Public Pol major.",
+  "text": "_ happened and I became a Public Pol major.",
   "pick": 1
   },
   {
@@ -157,7 +161,7 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "On LDOC, I went full _.",
+  "text": "On LDOC, I finally got _.",
   "pick": 1
   },
   {
@@ -173,7 +177,7 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "I don't know where my Duke hoodie is, the last time I saw I _.",
+  "text": "I don't know where my Duke hoodie is, the last time I saw I got _.",
   "pick": 1
   },
   {
@@ -181,7 +185,7 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "The line for getting mail is so long I could _",
+  "text": "The line for getting mail is so long I could finish _",
   "pick": 1
   },
   {
@@ -189,7 +193,7 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "But before I kill you, Mr. Bond, I must show you _.",
+  "text": "But before I kill you, Dean Sue, I must show you _.",
   "pick": 1
   },
   {
@@ -205,7 +209,7 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "Every time we take a trip the Eno we _.",
+  "text": "Every time we take a trip the Eno we get _.",
   "pick": 1
   },
   {
@@ -297,7 +301,7 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "I made the headline of The Chronicle for my _.",
+  "text": "I made the headline of The Chronicle for _.",
   "pick": 1
   },
   {
@@ -450,7 +454,7 @@ module.exports = {
   },
   {
   "text": "Call the RA, _ again...",
-  "pick": 2
+  "pick": 1
   },
   {
   "text": "I can’t wait til campus enterprises releases their new app. A  _ service made for and by students.",
@@ -577,8 +581,8 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "Listen, son. If you want to get involved with _, I won't stop you. Just steer clear of _.",
-  "pick": 1
+  "text": "If you want to get involved with _ on campus, I won't stop you. Just steer clear of _.",
+  "pick": 2
   },
   {
   "text": "I heard 40% of the Duke endowment funds came from _.",
@@ -589,7 +593,7 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "hletes outside of basketball players at duke don’t get enough attention. I say we bring extra _ to every home game. ",
+  "text": "Ahletes outside of basketball players at duke don’t get enough attention. I say we bring extra _ to every home game. ",
   "pick": 1
   },
   {
@@ -1219,6 +1223,35 @@ module.exports = {
       "Internationals.",
       "Pi Phi.",
       "Fucking a Tri-Delt.",
+      "Snu boys.",
+      "Kappa Alpha Theta.",
+      "Illyria.",
+      "Duke Engineers.",
+      "Duke Math.",
+      "Failing CS 201.",
+      "Burning the benches.",
+      "West Union.",
+      "Marketplace.",
+      "The Mary Lou Center for Black Culture.",
+      "Barn Parties.",
+      "Darties.",
+      "Old Duke.",
+      "LDOC blackout.",
+      "Blue Devil pussy.",
+      "The Alphas.",
+      "Key Three.",
+      "SLG.",
+      "Belltower Dorm.",
+      "Assplow Dorm.",
+      "The Megadorm.",
+      "Dean Blackshear.",
+      "Asia aka Bostock Library.",
+      "DEFMO.",
+      "3D printing a dildo from the Innovation Co-Lab.",
+      "3D printing a cock ring for my micropenis from the Innovation Co-Lab.",
+      "3D printing a black man from the Innovation Co-Lab.",
+      "3 Black friends.",
+      "East Campus Bus Loop.",
       
   "Man meat.",
   "Autocannibalism.",
@@ -1241,15 +1274,15 @@ module.exports = {
   "Being marginalized.",
   "Cuddling.",
   "Laying an egg.",
-  "The Pope.",
-  "Aaron Burr.",
+  "President Price.",
+  "Larry Monetta.",
   "Genital piercings.",
   "Fingering.",
   "A bleached asshole.",
   "Horse meat.",
   "Fear itself.",
   "Science.",
-  "Elderly Japanese men.",
+  "Foreign Grad student teachers.",
   "Stranger danger.",
   "The terrorists.",
   "Praying the gay away.",
@@ -1261,8 +1294,17 @@ module.exports = {
   "Making a pouty face.",
   "William Shatner.",
   "Heteronormativity.",
-  "Nickelback.",
-  "Tom Cruise.",
+  "Shooters.",
+      "Shooters.",
+  "Devines.",
+      "The Social.",
+      "Skewers Bar & Grill.",
+      "9th Streer.",
+      "Fucking a Tarheel.",
+      "Duke basketball players.",
+      "Kyrie Irving's self esteem.",
+      "Coach K's honor.",
+      "Christian Laettner.",
   "The profoundly handicapped.",
   "The placenta.",
   "Chainsaws for hands.",
@@ -1278,7 +1320,7 @@ module.exports = {
   "Sexy pillow fights.",
   "The invisible hand.",
   "A really cool hat.",
-  "Sean Penn.",
+  "Penn Pavillion.",
   "Heartwarming orphans.",
   "The clitoris.",
   "The Three-Fifths compromise.",
@@ -1288,7 +1330,7 @@ module.exports = {
   "A micropenis.",
   "Raptor attacks.",
   "Agriculture.",
-  "Vikings.",
+  "NCCU.",
   "Pretending to care.",
   "The Underground Railroad.",
   "My humps.",
@@ -1296,7 +1338,10 @@ module.exports = {
   "Geese.",
   "Bling.",
   "Sniffing glue.",
-  "The South.",
+  "Southpoint mall.",
+      "Northgate mall.",
+      "Bad coffee.",
+      "a wet BC plaza bench.",
   "An Oedipus complex.",
   "Eating all of the cookies before the AIDS bake-sale.",
   "Sexting.",

@@ -15,7 +15,7 @@ class Player extends Component {
           key={index}
           index={index}
           heldBy='player'
-          color='white'
+          color='blue'
           handleCardSelection={this.props.handleCardSelection}
           text={text}
           showPick={showPick}
