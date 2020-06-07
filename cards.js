@@ -5,15 +5,15 @@ module.exports = {
   "pick": 1
   },
     {
-  "text": "My favorite WU Resturant is _?",
+  "text": "My favorite WU Resturant is _____?",
   "pick": 1
   },
   {
-  "text": "Late night in Perkins, I forget about everything except _.",
+  "text": "Late night in Perkins, I forget about everything except _____.",
   "pick": 1
   },
   {
-  "text": "My favorite drunk food is _ and a side of _ from Pitchforks",
+  "text": "My favorite drunk food is _____ and a side of _____ from Pitchforks",
   "pick": 2
   },
   {
@@ -25,15 +25,15 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "The workers at Marketplace love me. They slide me some _ at closing time.",
+  "text": "The workers at Marketplace love me. They slide me some _____ at closing time.",
   "pick": 1
   },
   {
-  "text": "When I go to RDU, I make sure to wear my Duke hat and my_",
+  "text": "When I go to RDU, I make sure to wear my Duke hat and my_____",
   "pick": 1
   },
   {
-  "text": "You wouldn’t believe what we found in the common room today, _ and _.",
+  "text": "You wouldn’t believe what we found in the common room today, _____ and _____.",
   "pick": 2
   },
   {
@@ -41,15 +41,15 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "MTV's new reality show features eight Duke Alums and _.",
+  "text": "MTV's new reality show features eight Duke Alums and _____.",
   "pick": 1
   },
   {
-  "text": "I love _ and people-watching on BC plaza ",
+  "text": "I love _____ and people-watching on BC plaza ",
   "pick": 1
   },
   {
-  "text": "I'm sorry, Professor, but I couldn't complete my homework because of _.",
+  "text": "I'm sorry, Professor, but I couldn't complete my homework because of _____.",
   "pick": 1
   },
   {
@@ -61,35 +61,35 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "Today's featured Happy & Hale bowl: The _",
+  "text": "Today's featured Happy & Hale bowl: The _____",
   "pick": 1
   },
   {
-  "text": "Living off campus makes it easier to _.",
+  "text": "Living off campus makes it easier to have _____.",
   "pick": 1
   },
   {
-  "text": "Every freshman struggles with _ for the first time.",
+  "text": "Every freshman struggles with _____ for the first time.",
   "pick": 1
   },
   {
-  "text": "I want to be a FAC so I can have an impact and share my experience on _",
+  "text": "I want to be a FAC so I can have an impact and share my experience on _____",
   "pick": 1
   },
   {
-  "text": "Stay away from the bus loop. _ is there!",
+  "text": "Stay away from the bus loop. _____ is there!",
   "pick": 1
   },
   {
-  "text": "I hated living on east campus. We weren’t able to _.",
+  "text": "I hated living on east campus. I couldn't handle the NO- _____.",
   "pick": 1
   },
   {
-  "text": "Me and my RA don’t talk anymore because _.",
+  "text": "Me and my RA don’t talk anymore because _____.",
   "pick": 1
   },
   {
-  "text": "I meant to go to the career fair but I was caught up with _.",
+  "text": "I meant to go to the career fair but I was caught up with _____.",
   "pick": 1
   },
   {
@@ -97,11 +97,11 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "I don't study in the Link or Bostock. That's where _ work.",
+  "text": "I don't study in the Link or Bostock. That's where _____ work.",
   "pick": 1
   },
   {
-  "text": "I got cancelled in Duke Memes for posting _.",
+  "text": "I got cancelled in Duke Memes for posting _____.",
   "pick": 1
   },
   {
@@ -109,23 +109,23 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "I love third floor Perkins. There's no _.",
+  "text": "I love third floor Perkins. There's no _____.",
   "pick": 1
   },
   {
-  "text": "_ happened and I became a Public Pol major.",
+  "text": "_____ happened and I became a Public Pol major.",
   "pick": 1
   },
   {
-  "text": "During sex, I like to think about _.",
+  "text": "During sex, I like to think about _____.",
   "pick": 1
   },
   {
-  "text": "I double in Computer Science and Electrical Engineering because _.",
+  "text": "I double in Computer Science and Electrical Engineering because _____.",
   "pick": 1
   },
   {
-  "text": "We're now able to afford tutiton because my parents invested in _.",
+  "text": "We're now able to afford tutiton because my parents invested in _____.",
   "pick": 1
   },
   {
@@ -149,23 +149,23 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "NCAA has banned _ for giving players an unfair advantage.",
+  "text": "NCAA has banned _____ for giving players an unfair advantage.",
   "pick": 1
   },
   {
-  "text": "I didn’t rush freshman year because they wanted me to give up _.",
+  "text": "I didn’t rush freshman year because they wanted me to give up _____.",
   "pick": 1
   },
   {
-  "text": "Duke Alert: _ found on East Campus.",
+  "text": "Duke Alert: _____ found on East Campus.",
   "pick": 1
   },
   {
-  "text": "On LDOC, I finally got _.",
+  "text": "On LDOC, I finally got _____.",
   "pick": 1
   },
   {
-  "text": "Key Three. Core Four. _.",
+  "text": "Key Three. Core Four. _____.",
   "pick": 1
   },
   {
@@ -173,19 +173,19 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": " love my SLG, _is always in the common room.",
+  "text": " love my SLG, _____is always in the common room.",
   "pick": 1
   },
   {
-  "text": "I don't know where my Duke hoodie is, the last time I saw I got _.",
+  "text": "I don't know where my Duke hoodie is, the last time I saw I got _____.",
   "pick": 1
   },
   {
-  "text": "Coming to Paige Auditorium this August, _: The Musical.",
+  "text": "Coming to Paige Auditorium this August, _____: The Musical.",
   "pick": 1
   },
   {
-  "text": "The line for getting mail is so long I could finish _",
+  "text": "The line for getting mail is so long I could finish _____",
   "pick": 1
   },
   {
@@ -193,39 +193,39 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "But before I kill you, Dean Sue, I must show you _.",
+  "text": "But before I kill you, Dean Sue, I must show you _____.",
   "pick": 1
   },
   {
-  "text": "I love Shooters. They get me _.",
+  "text": "I love Shooters. They get me _____.",
   "pick": 1
   },
   {
-  "text": "I love Devines. They have _ more than Shooters.",
+  "text": "I love Devines. They have _____ more than Shooters.",
   "pick": 1
   },
   {
-  "text": "At the last darty I got pie all over my _.",
+  "text": "At the last darty I got pie all over my _____.",
   "pick": 1
   },
   {
-  "text": "Every time we take a trip the Eno we get _.",
+  "text": "Every time we take a trip the Eno we get _____.",
   "pick": 1
   },
   {
-  "text": "I almost jumped off the chapel but then I thought about _.",
+  "text": "I almost jumped off the chapel but then I thought about _____.",
   "pick": 1
   },
   {
-  "text": "I ran out food points so fast freshman year I ate _ everyday for a month.",
+  "text": "I ran out food points so fast freshman year I ate _____ everyday for a month.",
   "pick": 1
   },
   {
-  "text": "I’d lie, cheat and _ for 500 more food points￼!",
+  "text": "I’d lie, cheat and _____ for 500 more food points￼!",
   "pick": 1
   },
   {
-  "text": "At first I was an Econ major but then I switched to _",
+  "text": "At first I was an Econ major but then I switched to studying _____",
   "pick": 1
   },
   {
@@ -233,7 +233,7 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "Studies show that lab rats navigate mazes 50% faster after being exposed to _.",
+  "text": "Studies show that Duke Students perform 50% faster after being exposed with _____ for 24 hours.",
   "pick": 1
   },
   {
@@ -241,19 +241,19 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "I did all the graduation requirements except _.",
+  "text": "I did all the graduation requirements except _____.",
   "pick": 1
   },
   {
-  "text": "We would’ve gotten all the grad requirements if it weren’t for _.",
+  "text": "We would’ve gotten all the grad requirements if it weren’t for _____.",
   "pick": 1
   },
   {
-  "text": "I love living on west. It's conveniently close to _",
+  "text": "I love living on west. It's conveniently close to _____",
   "pick": 1
   },
   {
-  "text": "We love Big Mike. Once, he let me _ on the bus.",
+  "text": "We love Big Mike. Once, he let me _____ on the bus.",
   "pick": 1
   },
   {
@@ -261,11 +261,11 @@ module.exports = {
     "pick": 1
     },
   {
-  "text": "Take it from a Duke Alum. Nothing gets a Blue Devil going like _",
+  "text": "Take it from a Duke Alum. Nothing gets a Blue Devil going like _____",
   "pick": 1
   },
   {
-  "text": "Erybody in Shooters _",
+  "text": "Erybody in Shooters _____",
   "pick": 1
   },
   {
@@ -277,11 +277,11 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "Graduated Duke with a Double major in _ and _ a certificate in _.",
+  "text": "Graduated Duke with a Double major in _____ and _____ a certificate in _____.",
   "pick": 3
   },
   {
-  "text": "We learned about _ in my Gender Studies class.",
+  "text": "We learned about _____ in my Gender Studies class.",
   "pick": 1
   },
   {
@@ -289,75 +289,75 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "Most Duke students wouldn’t vote for a YT candidate who is openly _.",
+  "text": "Most Duke students wouldn’t vote for a YT candidate who is openly _____.",
   "pick": 1
   },
   {
-  "text": "Duke is a top 10 school because of our basketball, our academics and our _.",
+  "text": "Duke is a top 10 school because of our basketball, our academics and our _____.",
   "pick": 1
   },
   {
-  "text": "Oooo, Coach K like _",
+  "text": "Oooo, Coach K like _____",
   "pick": 1
   },
   {
-  "text": "I made the headline of The Chronicle for _.",
+  "text": "I made the headline of The Chronicle for _____.",
   "pick": 1
   },
   {
-  "text": "When I was tripping on shrooms, The Gardens told me I could _.",
+  "text": "When I was tripping on shrooms, The Gardens told me I could _____.",
   "pick": 1
   },
   {
-  "text": "_ + _ = _.",
+  "text": "_____ + _____ = _____.",
   "pick": 3
   },
   {
-  "text": "I walked onto the basketball team but never played because Coach K says I'm too _.",
+  "text": "I walked onto the basketball team but never played because Coach K says I'm too _____.",
   "pick": 1
   },
   {
-  "text": "Dear Major Advisor,<br><br>I'm having some trouble with _ and would like your advice.",
+  "text": "Dear Major Advisor,<br><br>I'm having some trouble with _____ and would like your advice.",
   "pick": 1
   },
   {
-  "text": "Anytime I pet Nugget or Peaches they _.",
+  "text": "Anytime I pet Nugget or Peaches they _____.",
   "pick": 1
   },
   {
-  "text": "_, Coming to the Mary Lou Center for Black Culture this Friday.",
+  "text": "_____, Coming to the Mary Lou Center for Black Culture this Friday.",
   "pick": 1
   },
   {
-  "text": "No one liked my Duke Memes post about _.",
+  "text": "No one liked my Duke Memes post about _____.",
   "pick": 1
   },
   {
-  "text": "I got a single sophomore year because my freshman year roomate had a bad case of _.",
+  "text": "I got a single sophomore year because my freshman year roomate had a bad case of _____.",
   "pick": 1
   },
   {
-  "text": "Sorry I can't go. I need to go to office hours to get help with _.",
+  "text": "Sorry I can't go. I need to go to office hours to get help with _____.",
   "pick": 1
   },
   {
-  "text": "We traded art from the Nasher Museum for _.",
+  "text": "We traded art from the Nasher Museum for _____.",
   "pick": 1
   },
   {
-  "text": "Every time I go to the Arts Annex I get the worst case _",
+  "text": "Every time I go to the Arts Annex I get the worst case _____",
   "pick": 1
   },
   {
-  "text": "Did u hear about the Duke Startup Challenge Winner who invented _ ?",
+  "text": "Did u hear about the Duke Startup Challenge Winner who invented _____ ?",
   "pick": 1
   },
   {
-  "text": "Living in Epworth sucked, but not as bad as _.",
+  "text": "Living in Epworth sucked, but not as bad as _____.",
   "pick": 1
   },
   {
-  "text": "No,No,NO!! I will not let _ ruin LDOC this year.",
+  "text": "No,No,NO!! I will not let _____ ruin LDOC this year.",
   "pick": 1
   },
   {
@@ -365,7 +365,7 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "Breaking news! Pratt students discover _.",
+  "text": "Breaking news! Pratt students discover _____.",
   "pick": 1
   },
   {
@@ -373,15 +373,15 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "Congratulations! You’ve been accepted to Duke. While we can’t offer you financial aid, we can offer you _.",
+  "text": "Congratulations! You’ve been accepted to Duke. While we can’t offer you financial aid, we can offer you _____.",
   "pick": 1
   },
   {
-  "text": "Duke Vans service sucks more than _.",
+  "text": "Duke Vans service sucks more than _____.",
   "pick": 1
   },
   {
-  "text": "As James Buchanan Duke once said, the 3 scholarly virtues are perseverance, integrity and _.",
+  "text": "As James Buchanan Duke once said, the 3 scholarly virtues are perseverance, integrity and _____.",
   "pick": 1
   },
   {
@@ -389,11 +389,11 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "Study like you’re a duke student, party like you’re a duke student and live like you’re _.",
+  "text": "Study like you’re a duke student, party like you’re a duke student and live like you’re _____.",
   "pick": 1
   },
   {
-  "text": "I may not be much to look at but my gpa is  _.",
+  "text": "I may not be much to look at but my gpa is  _____.",
   "pick": 1
   },
   {
@@ -401,47 +401,47 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "I heard the the blue devil mascot got #cancelled for _.",
+  "text": "I heard the the blue devil mascot got #cancelled for _____.",
   "pick": 1
   },
   {
-  "text": "Siri, remind me to stop _ at Wilson gym.",
+  "text": "Siri, remind me to stop _____ at Wilson gym.",
   "pick": 1
   },
   {
-  "text": "Best you go back where you came from. We don’t take too kindly to _ in Perkins.",
+  "text": "Best you go back where you came from. We don’t take too kindly to _____ in Perkins.",
   "pick": 1
   },
   {
-  "text": "I thought it would be easy fitting In. But after the _ incident, I’m having a hard time transitioning to campus.",
+  "text": "I thought it would be easy fitting In. But after the _____ incident, I’m having a hard time transitioning to campus.",
   "pick": 1
   },
   {
-  "text": "I learned the hard way that you can't cheer up a grieving friend with _.",
+  "text": "I learned the hard way that you can't cheer up a grieving friend with _____.",
   "pick": 1
   },
   {
-  "text": "I am a proponent of hook up culture. I believe in sex positivity and _.",
+  "text": "I am a proponent of hook up culture. I believe in sex positivity and _____.",
   "pick": 1
   },
   {
-  "text": "An contraband of Duke alumni were found guilty of _.",
+  "text": "An contraband of Duke alumni were found guilty of _____.",
   "pick": 1
   },
   {
-  "text": "Summer Session, had me blast! _, happened so fast...",
+  "text": "Summer Session, had me blast! _____, happened so fast...",
   "pick": 1
   },
   {
-  "text": "Our blue is better! We have _!",
+  "text": "Our blue is better! We have _____!",
   "pick": 1
   },
   {
-  "text": "I black tented but missed the game because of _.",
+  "text": "I black tented but missed the game because of _____.",
   "pick": 1
   },
   {
-  "text": "He who controls _ controls the world.",
+  "text": "He who controls _____ controls the world.",
   "pick": 1
   },
   {
@@ -449,155 +449,155 @@ module.exports = {
   "pick": 1
   },
   {
-  "text": "Graduated from Duke and all of a sudden I was _!",
+  "text": "Graduated from Duke and all of a sudden I was _____!",
   "pick": 1
   },
   {
-  "text": "Call the RA, _ again...",
+  "text": "Call the RA, _____ again...",
   "pick": 1
   },
   {
-  "text": "I can’t wait til campus enterprises releases their new app. A  _ service made for and by students.",
+  "text": "I can’t wait til campus enterprises releases their new app. A  _____ service made for and by students.",
   "pick": 1
   },
   {
-  "text": "It’s _ night at the Loop. Students get a free drink. ",
+  "text": "It’s _____ night at the Loop. Students get a free drink. ",
   "pick": 1
   },
   {
-  "text": "One duke student prescribed _ as a cure for coronavirus.",
+  "text": "One duke student prescribed _____ as a cure for coronavirus.",
   "pick": 1
   },
   {
-  "text": "Every time I take the C1, I’m reminded of _.",
+  "text": "Every time I take the C1, I’m reminded of _____.",
   "pick": 1
   },
   {
-  "text": "t’s game day! We do not smile in Cameron Indoor stadium. Smiling is for _.",
+  "text": "t’s game day! We do not smile in Cameron Indoor stadium. Smiling is for _____.",
   "pick": 1
   },
   {
-  "text": "Our football team would be better if Coach would let our players _.",
+  "text": "Our football team would be better if Coach would let our players _____.",
   "pick": 1
   },
   {
-  "text": "I got rejected from Defmo because I auditioned with _.",
+  "text": "I got rejected from Defmo because I auditioned with _____.",
   "pick": 1
   },
   {
-  "text": "Members of Duke's social elite are paying thousands of dollars just to experience _.",
+  "text": "Members of Duke's social elite are paying thousands of dollars just to experience _____.",
   "pick": 1
   },
   {
-  "text": "I went from _ to _, all thanks to _.",
+  "text": "I went from _____ to _____, all thanks to _____.",
   "pick": 3
   },
   {
-  "text": "My entire class saw me _ in Baldwin Auditorium.",
+  "text": "My entire class saw me _____ in Baldwin Auditorium.",
   "pick": 1
   },
   {
-  "text": "This month's Devil Deal: \"_ for 5 food points",
+  "text": "This month's Devil Deal: _____ for 5 food points",
   "pick": 1
   },
   {
-  "text": "Duke _ turned me into a Republican.",
+  "text": "Duke _____ turned me into a Republican.",
   "pick": 1
   },
   {
-  "text": "Racism still exists on campus. You can find a great example of it in _.",
+  "text": "Racism still exists on campus. You can find a great example of it in _____.",
   "pick": 1
   },
   {
-  "text": "Borrowed $2000 to my flex from the bursar so I could finally buy _.",
+  "text": "Borrowed $2000 to my flex from the bursar so I could finally buy _____.",
   "pick": 1
   },
   {
-  "text": "I spent my whole life working toward _, only to have it ruined by _.",
+  "text": "I spent my whole life working toward _____, only to have it ruined by _____.",
   "pick": 2
   },
   {
-  "text": "I would've been better prepared for Duke if I knew about all the _.",
+  "text": "I would've been better prepared for Duke if I knew about all the _____.",
   "pick": 1
   },
   {
-  "text": "I’ll never forget the time we ____ in E-Quad.",
+  "text": "I’ll never forget the time we ____________________ in E-Quad.",
   "pick": 1
   },
   {
-  "text": "Everyone down on the ground! We don't want to hurt anyone. We're just here for _.",
+  "text": "Everyone down on the ground! We don't want to hurt anyone. We're just here for _____.",
   "pick": 1
   },
   {
-  "text": "Duke hospital is by far the best hospital I’ve ever been too. They even have _!",
+  "text": "Duke hospital is by far the best hospital I’ve ever been too. They even have _____!",
   "pick": 1
   },
   {
-  "text": "I heard they kicked that fraternity off for having too much _",
+  "text": "I heard they kicked that fraternity off for having too much _____",
   "pick": 1
   },
   {
-  "text": "Alright, fine. We can agree Franklin st. is better than 9th street. But at least we have _.",
+  "text": "Alright, fine. Franklin st. is better than 9th st. But at least we have _____.",
   "pick": 1
   },
   {
-  "text": "There’s not enough light on campus. Last night I got away with _ on main quad.",
+  "text": "There’s not enough light on campus. Last night I got away with _____ on main quad.",
   "pick": 1
   },
   {
-  "text": "I had to switch out of Jarvis dorm, I realized their 'No- __' policy doesn’t really work for me.",
+  "text": "I had to switch out of Jarvis dorm, I realized their 'No- __________' policy doesn’t really work for me.",
   "pick": 1
   },
   {
-  "text": "You're not truly a Blue Devil until you've experienced _.",
+  "text": "You're not truly a Blue Devil until you've experienced _____.",
   "pick": 1
   },
   {
-  "text": "Hey baby, come back to my place and I'll show you _.",
+  "text": "Hey baby, come back to my place and I'll show you _____.",
   "pick": 1
   },
   {
-  "text": "My TA  got fired for adding _ to problem set.",
+  "text": "My TA  got fired for adding _____ to problem set.",
   "pick": 1
   },
   {
-  "text": "Finally! A service that delivers _ right to your dorm.",
+  "text": "Finally! A service that delivers _____ right to your dorm.",
   "pick": 1
   },
   {
-  "text": "I want to create a new SLG to create a safe and empowering place to explore _.",
+  "text": "I want to create a new SLG to create a safe and empowering place to explore _____.",
   "pick": 1
   },
   {
-  "text": "My life is ruled by a vicious cycle of _ and _.",
+  "text": "My life is ruled by a vicious cycle of _____ and _____.",
   "pick": 2
   },
   {
-  "text": "I dropped my sorority because I couldn’t connect with the girls. They’re all into _.",
+  "text": "I dropped my sorority because I couldn’t connect with the girls. They’re all into _____.",
   "pick": 1
   },
   {
-  "text": "I dropped my fraternity because the dues were getting too high. They wanted $1000 a semester so we could _.",
+  "text": "I dropped my fraternity because the dues were getting too high. They wanted $1000 a semester so we could _____.",
   "pick": 1
   },
   {
-  "text": "If you want to get involved with _ on campus, I won't stop you. Just steer clear of _.",
+  "text": "If you want to get involved with _____ on campus, I won't stop you. Just steer clear of _____.",
   "pick": 2
   },
   {
-  "text": "I heard 40% of the Duke endowment funds came from _.",
+  "text": "I heard 40% of the Duke endowment funds came from _____.",
   "pick": 1
   },
   {
-  "text": "This may sound crazy. But what if we donated a portion of profits generated by Duke Men's Basketball to  _.",
+  "text": "This may sound crazy. But what if we donated a portion of profits generated by Duke Men's Basketball to  _____.",
   "pick": 1
   },
   {
-  "text": "Ahletes outside of basketball players at duke don’t get enough attention. I say we bring extra _ to every home game. ",
+  "text": "Ahletes outside of basketball players at duke don’t get enough attention. I say we bring extra _____ to every home game. ",
   "pick": 1
   },
   {
-  "text": "I would’ve graduated debt and stress free if I didn’t get a _ addiction sophomore year. .",
+  "text": "I would’ve graduated debt and stress free if I didn’t get a _____ addiction sophomore year. .",
   "pick": 1
   },
 //  {
@@ -605,27 +605,27 @@ module.exports = {
 //  "pick": 1
 //  },
 //  {
-//  "text": "Turns out that _-Man was neither the hero we needed nor wanted.",
+//  "text": "Turns out that _____-Man was neither the hero we needed nor wanted.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "After months of practice with _, I think I'm finally ready for _.",
+//  "text": "After months of practice with _____, I think I'm finally ready for _____.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "In the seventh circle of Hell, sinners must endure _ for all eternity.",
+//  "text": "In the seventh circle of Hell, sinners must endure _____ for all eternity.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "As part of his daily regimen, Anderson Cooper sets aside 15 minutes for _.",
+//  "text": "As part of his daily regimen, Anderson Cooper sets aside 15 minutes for _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "When you get right down to it, _ is just _.",
+//  "text": "When you get right down to it, _____ is just _____.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "Having problems with _? Try _!",
+//  "text": "Having problems with _____? Try _____!",
 //  "pick": 2
 //  },
 //  {
@@ -633,67 +633,67 @@ module.exports = {
 //  "pick": 1
 //  },
 //  {
-//  "text": "I'm not like the rest of you. I'm too rich and busy for _.",
+//  "text": "I'm not like the rest of you. I'm too rich and busy for _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "With enough time and pressure, _ will turn into _.",
+//  "text": "With enough time and pressure, _____ will turn into _____.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "_: Hours of fun. Easy to use. Perfect for _!",
+//  "text": "_____: Hours of fun. Easy to use. Perfect for _____!",
 //  "pick": 2
 //  },
 //  {
-//  "text": "_. Awesome in theory, kind of a mess in practice.",
+//  "text": "_____. Awesome in theory, kind of a mess in practice.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "As part of his contract, Prince won't perform without _ in his dressing room.",
+//  "text": "As part of his contract, Prince won't perform without _____ in his dressing room.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Man, this is bullshit. Fuck _.",
+//  "text": "Man, this is bullshit. Fuck _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Dear Leader Kim Jong-un,<br>our village praises your infinite wisdom with a humble offering of _.",
+//  "text": "Dear Leader Kim Jong-un,<br>our village praises your infinite wisdom with a humble offering of _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "_ may pass, but _ will last forever.",
+//  "text": "_____ may pass, but _____ will last forever.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "She's up all night for good fun.<br>I'm up all night for _.",
+//  "text": "She's up all night for good fun.<br>I'm up all night for _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Alright, bros. Our frat house is condemned, and all the hot slam pieces are over at Gamma Phi. The time has come to commence Operation _.",
+//  "text": "Alright, bros. Our frat house is condemned, and all the hot slam pieces are over at Gamma Phi. The time has come to commence Operation _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "The Japanese have developed a smaller, more efficient version of _.",
+//  "text": "The Japanese have developed a smaller, more efficient version of _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "In return for my soul, the Devil promised me _, but all I got was _.",
+//  "text": "In return for my soul, the Devil promised me _____, but all I got was _____.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "You guys, I saw this crazy movie last night. It opens on _, and then there's some stuff about _, and then it ends with _.",
+//  "text": "You guys, I saw this crazy movie last night. It opens on _____, and then there's some stuff about _____, and then it ends with _____.",
 //  "pick": 3
 //  },
 //  {
-//  "text": "_ will never be the same after _.",
+//  "text": "_____ will never be the same after _____.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "Wes Anderson's new film tells the story of a precocious child coming to terms with _.",
+//  "text": "Wes Anderson's new film tells the story of a precocious child coming to terms with _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "In the beginning, there was _.<br>And the Lord said, \"Let there be _.\"",
+//  "text": "In the beginning, there was _____.<br>And the Lord said, \"Let there be _____.\"",
 //  "pick": 2
 //  },
 //  {
@@ -701,11 +701,11 @@ module.exports = {
 //  "pick": 1
 //  },
 //  {
-//  "text": "We never did find _, but along the way we sure learned a lot about _.",
+//  "text": "We never did find _____, but along the way we sure learned a lot about _____.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "You've seen the bearded lady!<br>You've seen the ring of fire!<br>Now, ladies and gentlemen, feast your eyes upon _!",
+//  "text": "You've seen the bearded lady!<br>You've seen the ring of fire!<br>Now, ladies and gentlemen, feast your eyes upon _____!",
 //  "pick": 1
 //  },
 //  {
@@ -713,11 +713,11 @@ module.exports = {
 //  "pick": 1
 //  },
 //  {
-//  "text": "I'm sorry, sir, but we don't allow _ at the country club.",
+//  "text": "I'm sorry, sir, but we don't allow _____ at the country club.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "2 AM in the city that never sleeps. The door swings open and <i>she</i> walks in, legs up to here. Something in her eyes tells me she's looking for _.",
+//  "text": "2 AM in the city that never sleeps. The door swings open and <i>she</i> walks in, legs up to here. Something in her eyes tells me she's looking for _____.",
 //  "pick": 1
 //  },
 //  {
@@ -725,79 +725,79 @@ module.exports = {
 //  "pick": 1
 //  },
 //  {
-//  "text": "Oprah's book of the month is \"_ For _: A Story of Hope.\"",
+//  "text": "Oprah's book of the month is \"_____ For _____: A Story of Hope.\"",
 //  "pick": 2
 //  },
 //  {
-//  "text": "Do <i>not</i> fuck with me! I am literally _ right now.",
+//  "text": "Do <i>not</i> fuck with me! I am literally _____ right now.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Adventure.<br>Romance.<br>_.<br><br>From Paramount Pictures, \"_.\"",
+//  "text": "Adventure.<br>Romance.<br>_____.<br><br>From Paramount Pictures, \"_____.\"",
 //  "pick": 2
 //  },
 //  {
-//  "text": "I am become _, destroyer of _!",
+//  "text": "I am become _____, destroyer of _____!",
 //  "pick": 2
 //  },
 //  {
-//  "text": "It lurks in the night. It hungers for flesh. This summer, no one is safe from _.",
+//  "text": "It lurks in the night. It hungers for flesh. This summer, no one is safe from _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "If you can't handle _, you'd better stay away from _.",
+//  "text": "If you can't handle _____, you'd better stay away from _____.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "This is the prime of my life. I'm young, hot, and full of _.",
+//  "text": "This is the prime of my life. I'm young, hot, and full of _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "I'm pretty sure I'm high right now, because I'm absolutely mesmerized by _.",
+//  "text": "I'm pretty sure I'm high right now, because I'm absolutely mesmerized by _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "This year's hottest album is \"_\" by _.",
+//  "text": "This year's hottest album is \"_____\" by _____.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "Every step towards _ gets me a little closer to _.",
+//  "text": "Every step towards _____ gets me a little closer to _____.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "Forget everything you know about _, because now we've supercharged it with _!",
+//  "text": "Forget everything you know about _____, because now we've supercharged it with _____!",
 //  "pick": 2
 //  },
 //  {
-//  "text": "Honey, I have a new role-play I want to try tonight! You can be _, and I'll be _.",
+//  "text": "Honey, I have a new role-play I want to try tonight! You can be _____, and I'll be _____.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "Do the Dew &reg; with our most extreme flavor yet! Get ready for Mountain Dew _!",
+//  "text": "Do the Dew &reg; with our most extreme flavor yet! Get ready for Mountain Dew _____!",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Armani suit: $1,000. Dinner for two at that swanky restaurant: $300. The look on her face when you surprise her with _: priceless.",
+//  "text": "Armani suit: $1,000. Dinner for two at that swanky restaurant: $300. The look on her face when you surprise her with _____: priceless.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "In his new action comedy, Jackie Chan must fend off ninjas while also dealing with _.",
+//  "text": "In his new action comedy, Jackie Chan must fend off ninjas while also dealing with _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Well what do you have to say for yourself, Casey? This is the third time you've been sent to the principal's office for _.",
+//  "text": "Well what do you have to say for yourself, Casey? This is the third time you've been sent to the principal's office for _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Here at the Academy for Gifted Children, we allow students to explore _ at their own pace.",
+//  "text": "Here at the Academy for Gifted Children, we allow students to explore _____ at their own pace.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Heed my voice, mortals! I am the god of _, and I will not tolerate _!",
+//  "text": "Heed my voice, mortals! I am the god of _____, and I will not tolerate _____!",
 //  "pick": 2
 //  },
 //  {
-//  "text": "I don't mean to brag, but they call me the Michael Jordan of _.",
+//  "text": "I don't mean to brag, but they call me the Michael Jordan of _____.",
 //  "pick": 1
 //  },
 //  {
@@ -805,19 +805,19 @@ module.exports = {
 //  "pick": 1
 //  },
 //  {
-//  "text": "Help me doctor, I've got _ in my butt!",
+//  "text": "Help me doctor, I've got _____ in my butt!",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Hi MTV! My name is Kendra, I live in Malibu, I'm into _, and I love to have a good time.",
+//  "text": "Hi MTV! My name is Kendra, I live in Malibu, I'm into _____, and I love to have a good time.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Patient presents with _. Likely a result of _.",
+//  "text": "Patient presents with _____. Likely a result of _____.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "Life's pretty tough in the fast lane. That's why I never leave the house without _.",
+//  "text": "Life's pretty tough in the fast lane. That's why I never leave the house without _____.",
 //  "pick": 1
 //  },
 //  {
@@ -825,19 +825,19 @@ module.exports = {
 //  "pick": 1
 //  },
 //  {
-//  "text": "Get ready for the movie of the summer! One cop plays by the book. The other's only interested in one thing: _.",
+//  "text": "Get ready for the movie of the summer! One cop plays by the book. The other's only interested in one thing: _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Having the worst day EVER. #_",
+//  "text": "Having the worst day EVER. #_____",
 //  "pick": 1
 //  },
 //  {
-//  "text": "In his farewell address, George Washington famously warned Americans about the dangers of _.",
+//  "text": "In his farewell address, George Washington famously warned Americans about the dangers of _____.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Don't forget! Beginning this week, Casual Friday will officially become \"_ Friday.\"",
+//  "text": "Don't forget! Beginning this week, Casual Friday will officially become \"_____ Friday.\"",
 //  "pick": 1
 //  },
 //  {
@@ -845,128 +845,128 @@ module.exports = {
 //  "pick": 1
 //  },
 //  {
-//  "text": "Yo' mama so fat she _!",
+//  "text": "Yo' mama so fat she _____!",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Well if _ is good enough for _, it's good enough for me.",
+//  "text": "Well if _____ is good enough for _____, it's good enough for me.",
 //  "pick": 2
 //  },
 //  {
-//  "text": "Hi, this is Jim from accounting. We noticed a $1,200 charge labeled \"_\". Can you explain?",
+//  "text": "Hi, this is Jim from accounting. We noticed a $1,200 charge labeled \"_____\". Can you explain?",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Do you lack energy? Does it sometimes feel like the whole world is _? Zoloft.&reg;",
+//  "text": "Do you lack energy? Does it sometimes feel like the whole world is _____? Zoloft.&reg;",
 //  "pick": 1
 //  },
 //  {
-//  "text": "WHOOO! God damn I love _!",
+//  "text": "WHOOO! God damn I love _____!",
 //  "pick": 1
 //  },
 //  {
-//  "text": "Now in bookstores: \"The Audacity of _\", by Barack Obama.",
+//  "text": "Now in bookstores: \"The Audacity of _____\", by Barack Obama.",
 //  "pick": 1
 //  },
 //  {
-//  "text": "And today's soup is Cream of _.",
+//  "text": "And today's soup is Cream of _____.",
 //  "pick": 1
 //  },
 //  {
 //  "pick": 1,
-//  "text": "I work my ass off all day for this family, and this is what I come home to? _!?"
+//  "text": "I work my ass off all day for this family, and this is what I come home to? _____!?"
 //  },
 //  {
 //  "pick": 1,
-//  "text": "I have a strict policy. First date, dinner. Second date, kiss. Third date, _."
+//  "text": "I have a strict policy. First date, dinner. Second date, kiss. Third date, _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "When I was a kid, we used to play Cowboys and _."
+//  "text": "When I was a kid, we used to play Cowboys and _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "This is America. If you don't work hard, you don't succeed. I don't care if you're black, white, purple, or _."
+//  "text": "This is America. If you don't work hard, you don't succeed. I don't care if you're black, white, purple, or _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "You Won't Believe These 15 Hilarious _ Bloopers!"
+//  "text": "You Won't Believe These 15 Hilarious _____ Bloopers!"
 //  },
 //  {
 //  "pick": 1,
-//  "text": "James is a lonely boy. But when he discovers a secret door in his attic, he meets a magical new friend: _."
+//  "text": "James is a lonely boy. But when he discovers a secret door in his attic, he meets a magical new friend: _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Don't worry kid. It gets better. I've been living with _ for 20 years."
+//  "text": "Don't worry kid. It gets better. I've been living with _____ for 20 years."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "My grandfather worked his way up from nothing. When he came to this country, all he had was the shoes on his feet and _."
+//  "text": "My grandfather worked his way up from nothing. When he came to this country, all he had was the shoes on his feet and _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Behind every powerful man is _."
+//  "text": "Behind every powerful man is _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "You are not alone. Millions of Americans struggle with _ every day."
+//  "text": "You are not alone. Millions of Americans struggle with _____ every day."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Come to Dubai, where you can relax in our world famous spas, experience the nightlife, or simply enjoy _ by the poolside."
+//  "text": "Come to Dubai, where you can relax in our world famous spas, experience the nightlife, or simply enjoy _____ by the poolside."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "\"This is madness.\" \"No, THIS IS _!\""
+//  "text": "\"This is madness.\" \"No, THIS IS _____!\""
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Listen Gary, I like you. But if you want that corner office, you're going to have to show me _."
+//  "text": "Listen Gary, I like you. But if you want that corner office, you're going to have to show me _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "I went to the desert and ate of the peyote cactus. Turns out my spirit animal is _."
+//  "text": "I went to the desert and ate of the peyote cactus. Turns out my spirit animal is _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "And would you like those buffalo wings mild, hot, or _?"
+//  "text": "And would you like those buffalo wings mild, hot, or _____?"
 //  },
 //  {
 //  "pick": 1,
-//  "text": "The six things I could never do without: oxygen, Facebook, chocolate, Netflix, friends, and _ LOL!"
+//  "text": "The six things I could never do without: oxygen, Facebook, chocolate, Netflix, friends, and _____ LOL!"
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Why won't you make love to me anymore? Is it _?"
+//  "text": "Why won't you make love to me anymore? Is it _____?"
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Puberty is a time of change. You might notice hair growing in new places. You might develop an interest in _. This is normal."
+//  "text": "Puberty is a time of change. You might notice hair growing in new places. You might develop an interest in _____. This is normal."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "I'm sorry, Mrs. Chen, but there was nothing we could do. At 4:15 this morning, your son succumbed to _."
+//  "text": "I'm sorry, Mrs. Chen, but there was nothing we could do. At 4:15 this morning, your son succumbed to _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "I'm Miss Tennessee, and if I could make the world better by changing one thing, I would get rid of _."
+//  "text": "I'm Miss Tennessee, and if I could make the world better by changing one thing, I would get rid of _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Tonight we will have sex. And afterwards, If you'd like, a little bit of _."
+//  "text": "Tonight we will have sex. And afterwards, If you'd like, a little bit of _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Everybody join hands and close your eyes. Do you sense that? That's the presence of _ in this room."
+//  "text": "Everybody join hands and close your eyes. Do you sense that? That's the presence of _____ in this room."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "To become a true Yanomama warrior, you must prove that you can withstand _ without crying out."
+//  "text": "To become a true Yanomama warrior, you must prove that you can withstand _____ without crying out."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Y'all ready to get this thing started? I'm Nick Cannon, and this is America's Got _."
+//  "text": "Y'all ready to get this thing started? I'm Nick Cannon, and this is America's Got _____."
 //  },
 //  {
 //  "pick": 1,
@@ -974,171 +974,171 @@ module.exports = {
 //  },
 //  {
 //  "pick": 2,
-//  "text": "_ be all like _."
+//  "text": "_____ be all like _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Art isn't just a painting in a stuffy museum. Art is alive. Art is _."
+//  "text": "Art isn't just a painting in a stuffy museum. Art is alive. Art is _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "As reparations for slavery, all African Americans will receive _."
+//  "text": "As reparations for slavery, all African Americans will receive _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "As Teddy Roosevelt said, the four manly virtues are honor, temperance, industry, and _."
+//  "text": "As Teddy Roosevelt said, the four manly virtues are honor, temperance, industry, and _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Best you go back where you came from, now. We don't take too kindly to _ in these parts."
+//  "text": "Best you go back where you came from, now. We don't take too kindly to _____ in these parts."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "CNN breaking news! Scientists discover _."
+//  "text": "CNN breaking news! Scientists discover _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Coming to Red Lobster&reg; this month, _."
+//  "text": "Coming to Red Lobster&reg; this month, _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Congratulations! You have been selected for our summer internship program. While we are unable to offer a salary, we can offer you _."
+//  "text": "Congratulations! You have been selected for our summer internship program. While we are unable to offer a salary, we can offer you _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Dance like there's nobody watching, love like you'll never be hurt, and live like you're _."
+//  "text": "Dance like there's nobody watching, love like you'll never be hurt, and live like you're _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Errbody in the club _."
+//  "text": "Errbody in the club _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Feeling so grateful! #amazing #mylife #_."
+//  "text": "Feeling so grateful! #amazing #mylife #_____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Girls just wanna have _."
+//  "text": "Girls just wanna have _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Google Calendar alert: _ in 10 minutes."
+//  "text": "Google Calendar alert: _____ in 10 minutes."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "I don't believe in God. I believe in _."
+//  "text": "I don't believe in God. I believe in _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "I got rhythm, I've got music, I've got _. Who could ask for anything more?"
+//  "text": "I got rhythm, I've got music, I've got _____. Who could ask for anything more?"
 //  },
 //  {
 //  "pick": 1,
-//  "text": "I may not be much to look at, but I fuck like _."
+//  "text": "I may not be much to look at, but I fuck like _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "I tell you, it was a non-stop fuckfest. When it was over, my asshole looked like _."
+//  "text": "I tell you, it was a non-stop fuckfest. When it was over, my asshole looked like _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "I'll take the BBQ bacon burger with fried egg and fuck it how about _."
+//  "text": "I'll take the BBQ bacon burger with fried egg and fuck it how about _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "I'm sorry, sir, but your insurance plan doesn't cover injuries caused by _."
+//  "text": "I'm sorry, sir, but your insurance plan doesn't cover injuries caused by _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "I've had a horrible vision, father. I saw mountains crumbling, stars falling from the sky. I saw _."
+//  "text": "I've had a horrible vision, father. I saw mountains crumbling, stars falling from the sky. I saw _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "If at first you don't succeed, try _."
+//  "text": "If at first you don't succeed, try _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "In the 1950s, psychologists prescribed _ as a cure for homosexually."
+//  "text": "In the 1950s, psychologists prescribed _____ as a cure for homosexually."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "LSD + _ = really bad time."
+//  "text": "LSD + _____ = really bad time."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "\"Mom's to-do list:<br/>- Buy Groceries.<br/>- Clean up _.<br/>- Soccer Practice.\""
+//  "text": "\"Mom's to-do list:<br/>- Buy Groceries.<br/>- Clean up _____.<br/>- Soccer Practice.\""
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Most Americans would not vote for a candidate who is openly _."
+//  "text": "Most Americans would not vote for a candidate who is openly _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "No, no, no, no, no, no, NO! I will NOT let _ ruin this wedding."
+//  "text": "No, no, no, no, no, no, NO! I will NOT let _____ ruin this wedding."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Oh no! Siri, how do I fix _?"
+//  "text": "Oh no! Siri, how do I fix _____?"
 //  },
 //  {
 //  "pick": 1,
-//  "text": "One more thing. Watch out for Big Mike. They say he killed a man with _."
+//  "text": "One more thing. Watch out for Big Mike. They say he killed a man with _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Ooo, daddy like _."
+//  "text": "Ooo, daddy like _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Poor Brandon, still living in his parent's basement. I heard he never got over _."
+//  "text": "Poor Brandon, still living in his parent's basement. I heard he never got over _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Run, run, as fast as you can! You can't catch me, I'm _!"
+//  "text": "Run, run, as fast as you can! You can't catch me, I'm _____!"
 //  },
 //  {
 //  "pick": 1,
-//  "text": "She's a lady in the streets, _ in the sheets."
+//  "text": "She's a lady in the streets, _____ in the sheets."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "She's just one of the guys, you know? She likes beer, and football, and _."
+//  "text": "She's just one of the guys, you know? She likes beer, and football, and _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Son, take it from someone who's been around the block a few times. Nothin' puts her in the mood like _."
+//  "text": "Son, take it from someone who's been around the block a few times. Nothin' puts her in the mood like _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Summer lovin', had me a blast. _, happened so fast."
+//  "text": "Summer lovin', had me a blast. _____, happened so fast."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "\"The top Google auto-complete results for \"Barack Obama\":</br>- Barack Obama Height.</br>- Barack Obama net worth.</br>- Barack Obama _.\""
+//  "text": "\"The top Google auto-complete results for \"Barack Obama\":</br>- Barack Obama Height.</br>- Barack Obama net worth.</br>- Barack Obama _____.\""
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Then the princess kissed the frog, and all of a sudden the frog was _!"
+//  "text": "Then the princess kissed the frog, and all of a sudden the frog was _____!"
 //  },
 //  {
 //  "pick": 1,
-//  "text": "There is no God. It's just _ and then you die."
+//  "text": "There is no God. It's just _____ and then you die."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "This Friday at the Liquid Lounge, it's _ Night! Ladies drink free."
+//  "text": "This Friday at the Liquid Lounge, it's _____ Night! Ladies drink free."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "We do not shake with our left hands in this country. That is the hand we use for _."
+//  "text": "We do not shake with our left hands in this country. That is the hand we use for _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Well if _ is a crime, then lock me up!"
+//  "text": "Well if _____ is a crime, then lock me up!"
 //  },
 //  {
 //  "pick": 1,
-//  "text": "Well, shit. My eyes ain't so good, but I'll eat my own boot if that ain't _!"
+//  "text": "Well, shit. My eyes ain't so good, but I'll eat my own boot if that ain't _____!"
 //  },
 //  {
 //  "pick": 1,
@@ -1182,15 +1182,15 @@ module.exports = {
 //  },
 //  {
 //  "pick": 1,
-//  "text": "With a one-time gift of just $10, you can save this child from _."
+//  "text": "With a one-time gift of just $10, you can save this child from _____."
 //  },
 //  {
 //  "pick": 1,
-//  "text": "You know who else liked _? Hitler."
+//  "text": "You know who else liked _____? Hitler."
 //  },
   {
   "pick": 1,
-  "text": "You won't believe what's in K-Ville. It's _."
+  "text": "You won't believe what's in K-Ville. It's _____."
   }
   ],
   "whiteCards": [
@@ -1279,11 +1279,11 @@ module.exports = {
   "Genital piercings.",
   "Fingering.",
   "A bleached asshole.",
-  "Horse meat.",
-  "Fear itself.",
+  "Mirecourt.",
+  "hazing like we're in a black frat.",
   "Science.",
   "Foreign Grad student teachers.",
-  "Stranger danger.",
+  "a fat blue devil deal.",
   "The terrorists.",
   "Praying the gay away.",
   "Same-sex ice dancing.",
@@ -1292,7 +1292,7 @@ module.exports = {
   "German dungeon porn.",
   "Bingeing and purging.",
   "Making a pouty face.",
-  "William Shatner.",
+  "Away Formals.",
   "Heteronormativity.",
   "Shooters.",
       "Shooters.",
@@ -1308,9 +1308,9 @@ module.exports = {
   "The profoundly handicapped.",
   "The placenta.",
   "Chainsaws for hands.",
-  "Arnold Schwarzenegger.",
-  "An icepick lobotomy.",
-  "Goblins.",
+  "getting blackout at 5am.",
+  "pulling trig in the uber before making it to west.",
+  "food points.",
   "Object permanence.",
   "Dying.",
   "Foreskin.",
@@ -3207,20 +3207,6 @@ module.exports = {
   143,
   144,
   145,
-  146,
-  147,
-  148,
-  149,
-  150,
-  151,
-  152,
-  153,
-  154,
-  155,
-  156,
-  157,
-  158,
-  159
   ],
   "white": [
   615,
@@ -3677,12 +3663,6 @@ module.exports = {
   286,
   287,
   288,
-  289,
-  290,
-  291,
-  292,
-  293,
-  294
   ],
   "white": [
   910,
@@ -3936,5 +3916,7 @@ module.exports = {
   "order": [
   "Base",
   "CAHe1",
+  "CAHe3",
+  "CAHe2",
   ]
 }

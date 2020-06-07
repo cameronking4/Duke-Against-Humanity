@@ -91,7 +91,7 @@ class CardCzar extends Component {
           <button onClick={this.props.startGame}>START</button>
         }
         {playerSelections &&
-          <button onClick={() => this.props.submitCzarSelection(currentSelection)}>OMG THIS ONE</button>
+          <button onClick={() => this.props.submitCzarSelection(currentSelection)}>THIS 1 WINS!</button>
         }
       </div>
     )
